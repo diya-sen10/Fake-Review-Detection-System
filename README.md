@@ -89,6 +89,28 @@ The Streamlit application will open in your web browser.
 
 *Features listed here should be checked against the final working application.*
 
+## Project Screenshots
+
+### 1. Dashboard
+
+![Dashboard](screenshots/Dashboard.png)
+
+### 2. Review Analyzer
+
+![Review Analyzer](screenshots/ReviewAnalyzer.png)
+
+### 3. Analytics
+
+![Analytics](screenshots/Analytics.png)
+
+### 4. Settings
+
+![Settings](screenshots/Settings.png)
+
+### 5. Help
+
+![Help](screenshots/Help.png)
+
 ## 8. Project Team
 
 - **Diya Sen** – BWU/BTS/24/537

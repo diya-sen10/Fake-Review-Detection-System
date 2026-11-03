@@ -97,7 +97,7 @@ The Streamlit application will open in your web browser.
 
 ### 2. Review Analyzer
 
-![Review Analyzer](screenshots/ReviewAnalyzer.png)
+![ReviewAnalyzer](screenshots/ReviewAnalyzer.png)
 
 ### 3. Analytics
 
